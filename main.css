@@ -12,8 +12,7 @@ img {
 }
 ul {
     list-style-position: inside;
-    -moz-column-count: 2; /* Firefox */
-    -webkit-column-count: 2; /* Safari and Chrome */
+    -webkit-column-count: 2;
     column-count: 2;
     list-style-type: decimal;
     height: 80px;

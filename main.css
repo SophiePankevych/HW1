@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: brown;
+    border-top: 5px solid grey;
+    background-color: lightyellow;
+}
+
+img {
+    width: 300px;
+    height: 230px;
+    margin-right: 20px;
+}
+ul {
+    list-style-position: inside;
+    -moz-column-count: 2; /* Firefox */
+    -webkit-column-count: 2; /* Safari and Chrome */
+    column-count: 2;
+    list-style-type: decimal;
+    height: 80px;
+}
+p {
+    background-color: lightgrey;
+}
